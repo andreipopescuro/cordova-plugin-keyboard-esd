@@ -1,0 +1,29 @@
+{
+  "name": "cordova-plugin-keyboard-esd",
+  "version": "0.0.1",
+  "description": "Cordova Keyboard Plugin",
+  "keywords": [
+    "cordova",
+    "keyboard",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "cordova": {
+    "id": "cordova-plugin-keyboard-esd",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/.git"
+  },
+  "bugs": {
+    "url": "https://github.com//issues"
+  },
+  "homepage": "https://github.com/#readme",
+  "author": "Andrei Popescu",
+  "license": "MIT"
+}
