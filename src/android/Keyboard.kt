@@ -13,7 +13,7 @@ class Keyboard : CordovaPlugin() {
         Log.d("Keyboard", "Executing action: $action")
         val imm = cordova.activity.getSystemService(Context.INPUT_METHOD_SERVICE) as InputMethodManager
         val view = cordova.activity.currentFocus ?: cordova.activity.window.decorView.rootView
-
+    
         cordova.activity.runOnUiThread {
             when (action) {
                 "show" -> {

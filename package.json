@@ -9,6 +9,14 @@
     "cordova-ios",
     "cordova-android"
   ],
+  "engines": {
+    "cordovaDependencies": {
+      "0.0.1": {
+        "cordova-ios": ">=7.0.0",
+        "cordova-android": ">=13.0.0"
+      }
+    }
+  },
   "cordova": {
     "id": "cordova-plugin-keyboard-esd",
     "platforms": [
