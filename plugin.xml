@@ -2,6 +2,10 @@
 <plugin id="cordova-plugin-keyboard-esd" version="1.0.0" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
     <name>KeyboardESD</name>
 
+    <keywords>Cordova,keyboard</keywords>
+    <repo>https://github.com/andreipopescuro/cordova-plugin-keyboard-esd.git</repo>
+    <issue>https://github.com/andreipopescuro/cordova-plugin-keyboard-esd/issues</issue>
+
     <dependency id="cordova-plugin-add-swift-support" version="2.0.2" />
 
     <engines>

@@ -27,7 +27,7 @@
 ## Installation
 
 ```
-cordova plugin add cordova-plugin-open-settings-esd
+cordova plugin add cordova-plugin-keyboard-esd
 ```
 
 ## Methods
